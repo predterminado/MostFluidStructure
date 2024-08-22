@@ -1,0 +1,21 @@
+.box1 {
+    width: 25%;
+    height: auto;
+}
+.box2 {
+    width: 75%;
+}
+.caja {
+    width: 65%;
+    order: 2;
+    height: auto;
+}
+.cont {
+    width: 35%;
+    order: 1;
+
+}
+.box5 {
+    width: 100%;
+    order: 3;
+}
