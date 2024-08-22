@@ -6,3 +6,66 @@
 html {
     font-size: 62.5%;
 }
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+}
+.box1 {
+    background-color: rgb(30, 42, 94);
+}
+.box2 {
+    background-color: rgb(85, 103, 156);
+}
+.box3 {
+    background-color: rgb(225, 215, 183);
+}
+.box4 {
+    background-color: rgb(124, 147, 195);
+}
+.box5 {
+    background-color: rgb(209, 233, 246);
+}
+.box6 {
+    background-color: rgb(200, 161, 224);
+}
+/*@media (min-width: 420px) {
+    .box2 {
+        width: 60%;
+    }
+    .box3 {
+        width: 40%;
+    }
+    .box4 {
+        width: 50%;
+    }
+    .box5 {
+        width: 50%;
+    }
+}*/
+/*@media (min-width: 768px) {
+    .container {
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .box1 {
+        width: 70%;
+    }
+    .box2 {
+        width: 30%;
+    }
+    .box3 {
+        width: 33%;
+    }
+    .box4 {
+        width: 33%;
+    }
+    .box5 {
+        width: 34%;
+    }
+}*/
