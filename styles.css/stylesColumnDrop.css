@@ -32,7 +32,7 @@ html {
 .box6 {
     background-color: rgb(3, 52, 110);
 }
-@media (min-width: 420px) {
+/*@media (min-width: 420px) {
     .box1 {
         width: 40%;
         order: 1;
@@ -53,8 +53,8 @@ html {
     .box6 {
         order: 6;
     }
-}
-@media (min-width: 768px) {
+}*/
+/*@media (min-width: 768px) {
     .content {
         width: 820px;
         margin: 0 auto;
@@ -86,4 +86,4 @@ html {
         width: 100%;
         order: 6;
     }
-}
+}*/

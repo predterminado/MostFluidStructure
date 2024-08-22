@@ -1,0 +1,31 @@
+.content {
+    width: 820px;
+    margin: 0 auto;
+}
+.box1 {
+    width: 20%;
+    order: 1;
+}
+.box2 {
+    width: 40%;
+    order: 2;
+}
+.box3 {
+    width: 40%;
+    order: 3;
+
+}
+.box4 {
+    width: 50%;
+    order: 4;
+
+}
+.box5 {
+    width: 50%;
+    order: 5;
+
+}
+.box6 {
+    width: 100%;
+    order: 6;
+}
